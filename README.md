@@ -13,7 +13,7 @@ View overall stats on a dashboard
 
 This project includes both the frontend (React) and backend (Node.js + MongoDB), fully connected.
 
-APP Demo :
+APP Demo video:
 https://github.com/user-attachments/assets/07dbc81e-b6f0-491e-b708-34c26a1452cd
 
 # Tech Stack
