@@ -16,6 +16,8 @@ This project includes both the frontend (React) and backend (Node.js + MongoDB),
 APP Demo video:
 https://github.com/user-attachments/assets/07dbc81e-b6f0-491e-b708-34c26a1452cd
 
+Deployed Link: https://taskflow-frontend-two-mu.vercel.app/
+
 # Tech Stack
 Frontend
 
